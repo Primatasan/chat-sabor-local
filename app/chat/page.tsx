@@ -1,6 +1,5 @@
 'use client';
 import { useState } from 'react';
-import './pag.css'
 
 export default function Home() {
   const [messages, setMessages] = useState([]);

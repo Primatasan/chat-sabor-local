@@ -1,6 +1,5 @@
 import Link from 'next/link'
 import Image from 'next/image'
-import './NavBar.css'
 import Logo from './logo_verde.png'
 
 export function NavBar() {
